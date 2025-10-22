@@ -4,8 +4,8 @@
 This project involves cleaning and analyzing a retail store sales dataset in Excel. Starting from raw data, I applied transformations to create a clean dataset, generated summaries using formulas and pivot tables, and visualized insights with charts. This demonstrates skills in data cleaning, formula-based calculations, pivot analysis, and business reporting – key for entry-level data/business analyst roles.
 
 ## Tools Used 
-- **Excel formulas:** XLOOKUP, CONCAT, SUMIFS, SUMPRODUCT
-- **Features:** tables, pivot tables/charts
+- **Excel formulas:** XLOOKUP, CONCAT, SUMIFS, SUMPRODUCT, UNIQUE, SORT
+- **Features:** tables & pivot tables with pivot charts
 
 ## Changes Made to the Dataset
 1. **Converted into a table**: Formatted the raw data as an Excel table for easier filtering and referencing.
