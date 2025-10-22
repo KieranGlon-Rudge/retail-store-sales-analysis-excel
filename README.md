@@ -5,7 +5,7 @@ This project involves cleaning and analyzing a retail store sales dataset in Exc
 
 ## Tools Used 
 - **Excel formulas:** XLOOKUP, CONCAT, SUMIFS, SUMPRODUCT, UNIQUE, SORT
-- **Features:** tables & pivot tables with pivot charts
+- **Features:** Conditional formating, tables & pivot tables with pivot charts
 
 ## Changes Made to the Dataset
 1. **Converted into a table**: Formatted the raw data as an Excel table for easier filtering and referencing.
